@@ -4,3 +4,4 @@
 -  Materia: Diseño Web Estático
 -  Docente: Gareis Pablo
 -  Ciclo Lectivo: 2020
+-  Tema: Galeria de Imagenes con Display Grid
